@@ -2,6 +2,6 @@
 Taller de Collections
 
 @Autors
-Cristhian Eduardo Osorio Restrepo
-Damir Alexis Chapal
-Camilo Alberto Ospina Agudelo
+Cristhian Eduardo Osorio Restrepo, 
+Damir Alexis Chapal, 
+Camilo Alberto Ospina Agudelo.
